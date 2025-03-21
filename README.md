@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on MSc.Data Science at University of Greenwich<br><br>🌱 I’m currently learning Deep Learning<br><br>👯 I’m looking to collaborate on Generative AI Project<br><br>💬 Ask me about Data Science<br><br>📫 How to reach me netra200021kcbdr@gmail.com<br><br>⚡ Fun fact AGI will be in 5 years
+🔭 Studied MSc.Data Science at University of Greenwich<br><br>🌱 I’m currently learning Deep Learning<br><br>👯 I’m looking to collaborate on Generative AI Project<br><br>💬 Ask me about Data Science<br><br>📫 How to reach me netra200021kcbdr@gmail.com<br><br>⚡ Fun fact AGI will be in 5 years
 
 
 ## 🌐 Socials:
