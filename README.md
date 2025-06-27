@@ -66,7 +66,7 @@ With a strong MLOps mindset ⚙️, I focus on automating end-to-end pipelines, 
 ---
 
 ### 🔝 Top Contributed Repo
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)](https://github.com/netra212)
 
 ---
 
