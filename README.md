@@ -1,3 +1,3 @@
 # 👋 Hi, I'm Netra Bahadur Khatri
 
-### Machine Learning Engineer | Data Scientist | GenAI & MLOps Enthusiast
+### Full Stack Engineer | Data Scientist | GenAI & MLOps Enthusiast
