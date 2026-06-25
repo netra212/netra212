@@ -1,3 +1,3 @@
 # 👋 Hi, I'm Netra Bahadur Khatri
 
-### Full Stack Developer | Master in Data Science
+### Rust Engineer | Master in Data Science
