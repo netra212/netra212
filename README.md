@@ -68,5 +68,3 @@
 > Passionate about writing fast, safe, and maintainable code with Rust 🦀
 
 ---
-
-> Passionate about writing fast, safe, and maintainable code with Rust 🦀
