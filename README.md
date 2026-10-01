@@ -1,18 +1,38 @@
-# Netra Bahadur Khatri
+<h1 align="center">Netra Bahadur Khatri</h1>
 
-**Rust Engineer · Backend Architecture · Distributed Systems**
+<p align="center">
+  <strong>Rust Engineer · Backend Architecture · Distributed Systems</strong>
+</p>
 
-Building reliable, high-performance backend systems with Rust.  
-Focused on concurrency, memory safety, and scalable system design.
+<p align="center">
+  Building fast, reliable, and maintainable backend systems.
+</p>
 
-### Tech Stack
+<p align="center">
+  <a href="https://linkedin.com/in/netrakc">LinkedIn</a> ·
+  <a href="mailto:netra.bdr.21200khatri@gmail.com">Email</a> ·
+  <a href="https://github.com/netra212">GitHub</a>
+</p>
 
-- **Languages:** Rust, Python, TypeScript, JavaScript
-- **Rust Ecosystem:** Tokio, Axum, Actix Web, SQLx, Serde
-- **Data & Infrastructure:** PostgreSQL, Redis, Kafka, Docker, Kubernetes
+---
 
-### Connect
+### 🦀 Focus
 
-[LinkedIn](https://linkedin.com/in/netrakc) · [Email](mailto:netra.bdr.21200khatri@gmail.com) · [GitHub](https://github.com/netra212)
+- High-performance backend services and robust APIs in **Rust**
+- Distributed systems, async programming, and concurrency
+- Memory safety, reliability, and performance optimization
 
-📍 London, United Kingdom
+### ⚙️ Tech Stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Rust · Python · TypeScript · JavaScript |
+| **Rust Ecosystem** | Tokio · Axum · Actix Web · SQLx · Serde |
+| **Databases & Messaging** | PostgreSQL · Redis · Kafka |
+| **Infrastructure** | Docker · Kubernetes |
+
+---
+
+<p align="center">
+  <sub>📍 London, United Kingdom</sub>
+</p>
